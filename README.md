@@ -38,17 +38,23 @@ Disponível para oportunidades como **Desenvolvedor Backend .NET, Desenvolvedor 
 
 ## Projetos em destaque
 
-### [API de Gerenciamento de Tarefas](https://github.com/algomjo/trilha-net-api-desafio)
+### [Korp — Sistema de Emissão de Notas Fiscais](https://github.com/algomjo/Korp_Teste_AlexandreGomesDeAraujo)
 
-API REST desenvolvida com .NET, ASP.NET Core, Entity Framework Core e SQL Server. Implementa CRUD completo, consultas por título, data e status, migrations e documentação com Swagger/OpenAPI.
+Aplicação full stack com Angular e dois microsserviços .NET independentes para estoque e faturamento. Demonstra comunicação HTTP resiliente, idempotência na baixa de estoque, bancos separados por serviço e execução completa com Docker Compose.
 
-**Tecnologias:** C# · .NET · ASP.NET Core · Entity Framework Core · SQL Server · Swagger/OpenAPI
+**Tecnologias:** C# · .NET 10 · ASP.NET Core · Angular 20 · SQLite · Docker · Microsserviços
 
-### [Gerenciamento de Instâncias EC2](https://github.com/algomjo/gerenciamento-ec2)
+### [Cadastro de Produtos](https://github.com/algomjo/apiCadastroProdutos)
 
-Projeto prático de infraestrutura AWS voltado ao gerenciamento de instâncias EC2 e fundamentos de computação em nuvem.
+Aplicação full stack para gerenciamento de produtos, com API REST em ASP.NET Core, persistência via Entity Framework Core e SQL Server e frontend React consumindo o backend por HTTP.
 
-**Tecnologias:** AWS · Amazon EC2 · Cloud Computing
+**Tecnologias:** C# · .NET 8 · ASP.NET Core · Entity Framework Core · SQL Server · React
+
+### [Sudoku em Java](https://github.com/algomjo/sudoku-java)
+
+Aplicação com interface Swing e modo CLI, regras de domínio isoladas, validação de jogadas, solver por backtracking e testes automatizados.
+
+**Tecnologias:** Java 17 · Maven · Swing · JUnit 5 · Backtracking
 
 ## Atividade no GitHub
 
